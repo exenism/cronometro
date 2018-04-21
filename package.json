@@ -1,0 +1,23 @@
+{
+  "name": "m-crono",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exenism/cronometro.git"
+  },
+  "author": "Evelio <exenis.m@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exenism/cronometro/issues"
+  },
+  "homepage": "https://github.com/exenism/cronometro#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
